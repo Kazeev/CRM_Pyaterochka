@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM_Pyaterochka", "CRM_Pyaterochka\CRM_Pyaterochka.csproj", "{74227DC1-A68F-413E-82B9-809686479BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74227DC1-A68F-413E-82B9-809686479BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74227DC1-A68F-413E-82B9-809686479BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74227DC1-A68F-413E-82B9-809686479BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74227DC1-A68F-413E-82B9-809686479BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
